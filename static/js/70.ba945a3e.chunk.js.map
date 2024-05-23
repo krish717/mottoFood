@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/70.ba945a3e.chunk.js","mappings":"iJAEC,MAOD,EAPiBA,KAEbC,EAAAA,EAAAA,KAAA,MAAAC,SAAI,W","sources":["components/Grocery.js"],"sourcesContent":["import React from 'react'\r\n\r\n const Grocery = () => {\r\n  return (\r\n    <h1>Grocery</h1>\r\n  )\r\n}\r\n\r\n\r\nexport default Grocery;\r\n"],"names":["Grocery","_jsx","children"],"sourceRoot":""}

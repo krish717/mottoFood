@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mottoFood/static/css/main.b345a527.css",
+    "main.js": "/mottoFood/static/js/main.96e3b92e.js",
+    "static/js/70.ba945a3e.chunk.js": "/mottoFood/static/js/70.ba945a3e.chunk.js",
+    "index.html": "/mottoFood/index.html",
+    "main.b345a527.css.map": "/mottoFood/static/css/main.b345a527.css.map",
+    "main.96e3b92e.js.map": "/mottoFood/static/js/main.96e3b92e.js.map",
+    "70.ba945a3e.chunk.js.map": "/mottoFood/static/js/70.ba945a3e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b345a527.css",
+    "static/js/main.96e3b92e.js"
+  ]
+}
