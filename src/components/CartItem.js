@@ -37,15 +37,15 @@ const CartItem = ({ itemsData }) => {
           </div>
           
 
-          <div className="cart-remove-btn">
-            <button class="" onClick={decrementCount}>
-              −
-            </button>
-            <span> {count}</span>
-            <button class="" onClick={incrementCount}>
-              +
-            </button>
-          </div>
+          // <div className="cart-remove-btn">
+          //   <button class="" onClick={decrementCount}>
+          //     −
+          //   </button>
+          //   <span> {count}</span>
+          //   <button class="" onClick={incrementCount}>
+          //     +
+          //   </button>
+          // </div>
           <div>
             <p>₹359</p>
           </div>
